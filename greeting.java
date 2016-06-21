@@ -6,9 +6,7 @@ public string show(){
 return "Hello";
 }
 
-public String display(){
-   return "hello";
-}
+sdddd
 }
 
 

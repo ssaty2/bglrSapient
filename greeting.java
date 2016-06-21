@@ -6,8 +6,8 @@ public string show(){
 return "Hello";
 }
 
-public string show2(){
-return "Hello";
+public String display(){
+   return "hello";
 }
 }
 

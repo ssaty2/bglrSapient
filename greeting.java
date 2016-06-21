@@ -4,7 +4,12 @@ public class Greeting{
 
 public string show(){
 return "Hello";
-}}
+}
+
+public string show2(){
+return "Hello";
+}
+}
 
 
 
